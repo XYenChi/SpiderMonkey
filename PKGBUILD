@@ -1,9 +1,9 @@
-# Maintainer: Jan Alexander Steffens (heftig) <heftig@archlinux.org>
+# Maintainer: Oria Chen (xyenchi) <oriachiuan@gmail.com>
 
-pkgname=js91
-pkgver=91.13.0
+pkgname=SpiderMonkey
+pkgver=1
 pkgrel=1
-pkgdesc="JavaScript interpreter and libraries - Version 91"
+pkgdesc="Mozilla’s JavaScript and WebAssembly Engine"
 arch=(riscv64)
 url="https://spidermonkey.dev/"
 license=(MPL)
